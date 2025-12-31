@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive pipeline for analyzing Twitter data related to [Your Thesis Topic]. The pipeline includes web scraping, data preprocessing, exploratory data analysis (EDA), sentiment analysis, popularity index construction, time series predictions, and accuracy comparisons. Each step is encapsulated in separate Python notebooks or scripts for clarity and modularity.
+This repository contains a comprehensive pipeline for predicting DRC 2018 election results based on Twitter data. The pipeline includes web scraping, data preprocessing, exploratory data analysis (EDA), sentiment analysis, popularity index construction, time series predictions, and accuracy comparisons. Each step is encapsulated in separate Python notebooks or scripts for clarity and modularity.
 
 ## Pipeline Structure
 
