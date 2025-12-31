@@ -46,3 +46,22 @@ To replicate the entire pipeline, please ensure you have the necessary Python pa
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+### Usage Instructions
+
+- Execute `WebScraping.py` to start the pipeline.
+- Proceed to run each notebook in the order listed above (1 to 6) in a Jupyter Notebook environment.
+- Ensure that each output file is available for the subsequent steps.
+- Recommended environment: Python 3.11.13.
+
+### Note
+
+Ensure you have appropriate permissions and comply with Twitter’s terms of service when scraping data. This pipeline is designed for research purposes and should be used responsibly.
+
+### Contributions
+
+Feel free to fork the repository, make improvements, and suggest changes via pull requests!
