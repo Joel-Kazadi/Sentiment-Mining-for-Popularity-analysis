@@ -44,8 +44,8 @@ To replicate the entire pipeline, please ensure you have the necessary Python pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Joel-Kazadi/Sentiment-Mining-for-Popularity-analysis.git
+   cd repository_name
 
 2. Install the required packages:
    ```bash
